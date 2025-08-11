@@ -1,1 +1,2 @@
-# fmri-to-image
+# InnerSight
+InnerSight produces conceptually robust reconstructions of brain images.
